@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6031fa2-97ab-4fdb-9a4c-037a34208ba7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1W5pKsN4U1bAqiuPZv0883fA1g1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6031fa2-97ab-4fdb-9a4c-037a34208ba7" name="Default Changelist" comment="" />
+      <created>1578449248459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578449248459</updated>
+      <workItem from="1578449249707" duration="973000" />
+      <workItem from="1578450321440" duration="393000" />
+      <workItem from="1578450780298" duration="137000" />
+      <workItem from="1578450941026" duration="79000" />
+      <workItem from="1578451120727" duration="433000" />
+      <workItem from="1578451681789" duration="4130000" />
+      <workItem from="1578473801914" duration="3823000" />
+      <workItem from="1578507324004" duration="793000" />
+      <workItem from="1578535835545" duration="2733000" />
+      <workItem from="1578563019113" duration="8000" />
+      <workItem from="1578563040489" duration="39000" />
+      <workItem from="1578564399724" duration="56000" />
+      <workItem from="1578610889979" duration="142000" />
+      <workItem from="1578611043329" duration="199000" />
+      <workItem from="1578611293876" duration="8000" />
+      <workItem from="1578611320904" duration="22000" />
+      <workItem from="1578611361305" duration="16000" />
+      <workItem from="1578611414193" duration="73000" />
+      <workItem from="1578611502737" duration="491000" />
+      <workItem from="1578612081419" duration="61000" />
+      <workItem from="1578612176961" duration="346000" />
+      <workItem from="1578623631737" duration="13000" />
+      <workItem from="1578623665971" duration="57000" />
+      <workItem from="1578623768349" duration="20000" />
+      <workItem from="1578623989972" duration="22000" />
+      <workItem from="1578624671596" duration="46000" />
+      <workItem from="1578625288246" duration="26000" />
+      <workItem from="1578625384911" duration="3000" />
+      <workItem from="1578625400669" duration="6000" />
+      <workItem from="1578625944252" duration="45000" />
+      <workItem from="1578626067911" duration="10000" />
+      <workItem from="1578626347763" duration="12000" />
+      <workItem from="1578626574625" duration="11000" />
+      <workItem from="1578627908690" duration="35000" />
+      <workItem from="1578629256624" duration="168000" />
+      <workItem from="1578629448972" duration="2366000" />
+      <workItem from="1578631895483" duration="1121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578629357742">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="343" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1578629357742" />
+    <state x="509" y="282" key="NewPhpClassDialog" timestamp="1578457135318">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="509" y="282" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1578457135318" />
+    <state x="538" y="384" key="NewPhpFileDialog" timestamp="1578453200647">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="538" y="384" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1578453200647" />
+    <state x="482" y="90" key="refactoring.ChangeSignatureDialog" timestamp="1578507989493">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="482" y="90" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1578507989493" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1578632746374">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1578632746374" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Controller/ProductController.php</url>
+          <line>49</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
